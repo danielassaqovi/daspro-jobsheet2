@@ -1,2 +1,2 @@
 # daspro-jobsheet2
-repositoriku yang pertama
+helloo git, ini repositoriku yang pertama
